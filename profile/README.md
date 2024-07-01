@@ -9,7 +9,8 @@
   <br>
   <h1>🏙️</h1>
   <h3>우리, 옹기종기 모이는 사람들</h3>
-  <a href="https://github.com/r6hex-1g" style="text-decoration: none;">라희</a>
+  <a href="https://github.com/r6hex-1g" style="text-decoration: none;">라희 | </a>
+  <a href="https://github.com/yuhaechan" style="text-decoration: none;">해찬 |</a>
   <br>
   <br>
   <br>
