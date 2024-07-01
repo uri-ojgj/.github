@@ -1,12 +1,20 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<div align="center">
+  <h1>👋🏻</h1>
+  <h3>안녕하세요 우리는, "옹기종기"라고 합니다.</h3>
+  우리는 옹기종기 모여 다른 사람들이 하는 코딩을 보고 영감을 받고, 그 영감으로 실제 사람들이 쓰면서 즐거운 무언가를 만드는 것을 목표로 해요.<br>
+  다른 어떠한 난관과 악재가 겹쳐도 나아가고자 할거고, 더더욱 성장하는 것이 목표랍니다.
+  <br>
+  <br>
+  <br>
+  <br>
+  <h1>🏙️</h1>
+  <h3>우리, 옹기종기 모이는 사람들</h3>
+  <a href="https://github.com/r6hex-1g" style="text-decoration: none;">라희</a>
+  <br>
+  <br>
+  <br>
+  <br>
+  <h1>🖥️</h1>
+  <h3>우리, 옹기종기 모여서 하는 프로젝트</h3>
+  <b>아직 협의 단계에요. 조금만 기다린다면 좋은 소식이 도착할거에요 !</b>
+</div>
