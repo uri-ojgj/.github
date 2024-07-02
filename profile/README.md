@@ -12,6 +12,7 @@
   <a href="https://github.com/r6hex-1g" style="text-decoration: none;">라희</a> | 
   <a href="https://github.com/yuhaechan" style="text-decoration: none;">해찬</a> | 
   <a href="https://github.com/KORArgon" style="text-decoration: none;">금동</a> | 
+  <a href="https://github.com/Bea-Go-Pa" style="text-decoration: none;">고파</a>
   <br>
   <br>
   <br>
